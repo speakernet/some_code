@@ -4,3 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "change"
 echo "this was run automagically"
+echo "And this was too!"
